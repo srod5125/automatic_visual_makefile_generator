@@ -1,0 +1,10 @@
+
+
+-todo: support custom git repo to detect file changes
+
+-todo: support just c & c++ files, searrch through directories, detect
+       includes, present to user suggestion on possible make files structure
+       
+-todo: provide visual interface for editing file structures, support drag      &  drop editting mode, 
+
+-todo: detect file changes using custom local git repo, present differences to user in a simple way
